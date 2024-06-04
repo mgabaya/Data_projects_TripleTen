@@ -1,6 +1,17 @@
 # Data-projects-TripleTen
 Data projects (TripleTen)
 
-This repository contains the projects completed during the TripleTen Data Scientist program.
+This repository highlights projects completed during the TripleTen Data Scientist program.
 
-There are a total of 17 projects for the 17 sprints focusing and showcasing various aspects of data science.
+Each project corresponded to a sprint focusing and showcasing various topics and aspects covered throughout the data science course.
+
+
+Sprint 4 project: Software Development Tools
+
+Sprint 8: Supervised Learning Machine Learning
+
+Sprint 9: Machine Learning in Business
+
+Sprint 13: Time Series
+
+Sprint 17: Final Project

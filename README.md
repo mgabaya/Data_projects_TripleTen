@@ -7,6 +7,7 @@ Each project corresponded to a sprint focusing and showcasing various topics and
 
 
 Sprint 4 project: Software Development Tools
+https://github.com/mgabaya/vehicles_sprint4_proj.git
 
 Sprint 8: Supervised Learning Machine Learning
 

@@ -12,19 +12,19 @@ Churn.csv file
 
 **Features**
 
-RowNumber — data string index
-CustomerId — unique customer identifier
-Surname — surname
-CreditScore — credit score
-Geography — country of residence
-Gender — gender
-Age — age
-Tenure — period of maturation for a customer’s fixed deposit (years)
-Balance — account balance
-NumOfProducts — number of banking products used by the customer
-HasCrCard — customer has a credit card
-IsActiveMember — customer’s activeness
-EstimatedSalary — estimated salary
+RowNumber — data string index <br/>
+CustomerId — unique customer identifier<br/>
+Surname — surname<br/>
+CreditScore — credit score<br/>
+Geography — country of residence<br/>
+Gender — gender<br/>
+Age — age<br/>
+Tenure — period of maturation for a customer’s fixed deposit (years)<br/>
+Balance — account balance<br/>
+NumOfProducts — number of banking products used by the customer<br/>
+HasCrCard — customer has a credit card<br/>
+IsActiveMember — customer’s activeness<br/>
+EstimatedSalary — estimated salary<br/>
 
 **Target**
 

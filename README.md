@@ -1,10 +1,10 @@
 # Data Projects (TripleTen)
-Data projects (TripleTen)
 
-This repository highlights projects completed during the TripleTen Data Scientist program.
+This repository showcases projects completed during the TripleTen Data Scientist program.
 
 Each project corresponded to a sprint focusing and showcasing various topics and aspects covered throughout the data science course.
 
+Below are five projects that I'd like to highlight:
 
 | Sprint # | Project Topic | Description |
 | --- | --- | --- |
@@ -13,3 +13,5 @@ Each project corresponded to a sprint focusing and showcasing various topics and
 | 9 | Machine Learning in Business | Using data from the OilyGiant mining company, we predicted the volume of reserves in the new wells, analyzed the risk within each region, and chose the region with the highest total profit |
 | 13 | Time Series | Used time series analysis methods to predict the amount of taxi orders for the Sweet Lift Taxi company |
 | 17 | Cummulative Project | Showcase a project through planning up to a report |
+
+The remaining projects reside in the "Other_Sprint_Projects" folder.

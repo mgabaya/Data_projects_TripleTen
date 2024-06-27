@@ -48,4 +48,4 @@ Use these formulas for evaluation metrics:
 
 ![SMAPE Formula](images/smape.jpg)
 
-![Final SMAPE Formula](images/final_smape.jpg)
+![Final SMAPE Formula](images/final_smape.png)

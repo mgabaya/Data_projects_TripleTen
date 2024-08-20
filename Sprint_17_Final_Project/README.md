@@ -41,3 +41,15 @@ What steps of the plan were performed and what steps were skipped (explain why)?
 What difficulties did you encounter and how did you manage to solve them?<br/>
 What were some of the key steps to solving the task?<br/>
 What is your final model and what quality score does it have?
+
+## Conclusions
+From the data provided by Interconnect, we saw the following:
+
+- The churn customers tend to leave in the first half year
+- There was a high churn rate for those with a higher monthly total
+- The data should use one-hot encoding and MaxAbsScalar
+- When predicting the customers that will churn, the four optimized models (XGBClassifier, LogisticRegression, RandomForestClassifier, and DecisionTreeClassifier) work well for predicting with at least a AUC-ROC score of 0.82
+- Although XGBClassifier had the highest score, the other three models came close with less than a 0.02 difference
+- When looking at the categorical columns, churned customers tended to pay month-to-month, pay with electronic check, and did not use the internet options like online backup.
+
+With this information, Interconnect can forecast who is most likely to churn before they churn and offer some kind of promotions or incentives. For example, since we saw a large amount of customers stay for less than half a year, the company can offer a multiple month package for a standard rate, regardless of what features they sign up for. This can help curb some of the customers who have a high monthly total to stay with the company since the per month cost would be set.
